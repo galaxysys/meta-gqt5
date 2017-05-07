@@ -2,7 +2,7 @@
 Qt5 support and WebOS UI for Galaxy.
 This layer contains:
 
-The Open webOS Ports OpenEmbedded layer
+The Open webOS Ports UI OpenEmbedded layer
 This layer depends on:
 
 URI: git://github.com/openembedded/oe-core.git
